@@ -1,6 +1,0 @@
-import this #The Zen of Python
-import antigravity #открывает в браузере комикс XKCD
-import __hello__ #это замороженный модуль "Hello world"
-from __future__ import braces # "создавать блоки с фигурными скобками"
-from art import *
-print ("Artem")
