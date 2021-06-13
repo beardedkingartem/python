@@ -1,0 +1,16 @@
+import this #The Zen of Python
+import antigravity #открывает в браузере комикс XKCD
+import __hello__ #это замороженный модуль "Hello world"
+from __future__ import braces # "создавать блоки с фигурными скобками"
+from art import *
+print ("Artem")
+a=int(input("введите число A:"))
+b=int(input("введите число B:"))
+symma=(a+b)
+delenie=(a//b)
+ostatok=(a%b)
+stepen=(a**b)
+print("сумма чисел:",symma)
+print("целочисленное деления:", delenie)
+print("остаток от деления:", ostatok)
+print("степень числа:", stepen)
